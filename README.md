@@ -3,10 +3,14 @@
 - 🌱 I’m currently studying Full Stack Web Development in Factoría F5.
 - ✨ I consider myself a curious and committed person.
 
+## Reach me
+[![Gmail]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))]() andsainz@ucm.es
+
 <!---
 andsainz/andsainz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-sainz-vigo-994b99138/)
 ## Stack
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
