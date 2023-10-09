@@ -1,3 +1,4 @@
+![Banner](https://pbs.twimg.com/media/F7_zJssWgAAtvOF?format=jpg&name=large)
 # 💫 About Me:
 ❤️ My name is Andrea and I’m interested in health, sports and technology.<br>🌱 I’m currently studying Full Stack Web Development in Orange Digital Center.<br>✨ I consider myself a curious and committed person.
 
